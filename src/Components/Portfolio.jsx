@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "10 Things To Know about the Web developer.",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Writing a thousand lines of code and turning that into a website is one of the most creative and complicated things for web developers.",
+    url: "https://www.geeksforgeeks.org/10-things-you-should-know-as-a-web-developer/",
   },
   {
     title: "Web Development for Beginners",
@@ -43,16 +43,16 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      " A creative and quick thinking individual with a bent towards communicating and building a relationship online. Well versed with digital marketing tools and strategies.",
+    url: "https://github.com/rajshreejadhao/MYResume",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub Introduction",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "GitHub is a web-based platform that uses Git, a version control system, to help developers manage and track changes in their code. ",
+    url: "https://www.geeksforgeeks.org/introduction-to-github/",
   },
 ];
 
